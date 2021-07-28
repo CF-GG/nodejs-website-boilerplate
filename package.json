@@ -24,7 +24,7 @@
     "clean-css": "^3.4.19",
     "compression": "^1.6.1",
     "concat-cli": "^4.0.0",
-    "cosmicjs": "^3.2.14",
+    "cosmicjs": "^4.1.2",
     "express": "^4.13.4",
     "hogan-express": "^0.5.2",
     "install": "^0.4.4",
