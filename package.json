@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel": "^6.5.2",
     "babel-core": "^6.5.2",
     "babel-preset-es2015": "^6.5.0",
@@ -24,7 +24,7 @@
     "clean-css": "^3.4.19",
     "compression": "^1.6.1",
     "concat-cli": "^4.0.0",
-    "cosmicjs": "^3.2.14",
+    "cosmicjs": "^4.3.7",
     "express": "^4.13.4",
     "hogan-express": "^0.5.2",
     "install": "^0.4.4",
