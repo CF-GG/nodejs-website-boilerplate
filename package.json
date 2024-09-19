@@ -25,7 +25,7 @@
     "compression": "^1.6.1",
     "concat-cli": "^4.0.0",
     "cosmicjs": "^3.2.14",
-    "express": "^4.13.4",
+    "express": "^4.20.0",
     "hogan-express": "^0.5.2",
     "install": "^0.4.4",
     "less": "^2.7.1",
